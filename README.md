@@ -19,3 +19,17 @@ https://getbootstrap.com/docs/4.3/examples/album/
 1. 우측 상단 햄버거 버튼 클릭 시 진행되는 동적 기능
 2. 기타 애니메이션 효과
 3. 하단 Footer
+
+<br/>
+
+# 화면
+
+<img width="800" alt="화면" src="./screencapture.png">
+
+<br/>
+
+# 계층구조
+
+<img width="800" alt="화면" src="./계층구조.png">
+
+Header, Top+Card, Footer로 구성되어 있다.
