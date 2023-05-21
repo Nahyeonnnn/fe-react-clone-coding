@@ -30,6 +30,6 @@ https://getbootstrap.com/docs/4.3/examples/album/
 
 # 계층구조
 
-<img width="800" alt="화면" src="./capture.PNG">
+<img width="200" alt="화면" src="./capture.PNG">
 
 Header, Top+Card, Footer로 구성되어 있다.
